@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1, oklivetv
+http://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+
+#EXTINF:-1, adult
+http://xc.adultiptv.net/get.php?username=adultiptv&password=adultiptv&type=m3u8
+
+#EXTINF:-1,1 (Stripchat)
+https://adultiptv.net/livecams/stream.php?id=sc_121377216
+
+#EXTINF:-1, livemycamtv
+https://live.mycamtv.com/stream0.m3u8
+
+#EXTINF:-1,MyCamTV Teen Girls
+https://live.mycamtv.net/teen.m3u8
+
+#EXTINF:-1,BEARZ-TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
+
+#EXTINF:-1,XXL
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
+
+#EXTINF:-1,EROX-TV
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
+
+#EXTINF:-1,PENTHAUSE REALITY
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+
+#EXTINF:-1,XXXX
+https://github.com/hujingguang/ChinaIPTV/blob/main/xxx.m3u8
+
+#EXTINF:-1,Playboy UK
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1,BLUE-TV
+http://kstv.us:8080/haw5UJfF68/1729172230/47177
+
+#EXTINF:-1,EROX HD-TV
+http://kstv.us:8080/haw5UJfF68/1729172230/47171
+
+#EXTINF:-1,HUSTLER-TV1
+http://kstv.us:8080/haw5UJfF68/1729172230/47223
+
+#EXTINF:-1,XXX-EROTIC-TV
+http://31.148.48.15/O-la-la/index.m3u8
+
+#EXTINF:-1,AMAZING-TV
+http://203.75.191.130:8156/VideoInput/play.ts
+
+#EXTINF:-1,AMAZING-TV1
+http://125.227.210.55:8156/VideoInput/play.ts
+
+#EXTINF:-1,HUSTLER-TV
+http://kstv.us:8080/haw5UJfF68/1729172230/47169
+
+#EXTINF:-1,PRIVATE-TV
+http://kstv.us:8080/haw5UJfF68/1729172230/47176
 
 #EXTINF:-1,XXX Live Cams
 http://cdn.redtraffic.net/livecams.m3u8
