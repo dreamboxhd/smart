@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,live
-https://live.huyamba.mobi/get_file/1/80015363871c6452e4abb91bb8630b9c1a914d2a32/7000/7802/7802.mp4/?rnd=1738704294993
+https://b-hls-03.doppiocdn.live/hls/182261463/182261463_160p.m3u8?playlistType=lowLatency&_HLS_msn=419&_HLS_part=0
 #EXTINF:-1,live1
-https://live.huyamba.mobi/get_file/1/1c5ab1a4c5b379e68e04d53070b278b747786e7feb/8000/8170/8170.webm/
+https://b-hls-10.doppiocdn.live/hls/81943216/81943216_720p.m3u8?playlistType=lowLatency&_HLS_msn=1295&_HLS_part=2
 #EXTINF:-1,live2
 https://edge-hls.doppiocdn.live/hls/152719347/master/152719347_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1,live3
