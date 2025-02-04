@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,live
-https://b-hls-20.doppiocdn.net/hls/96175919/96175919_480p.m3u8
+https://edge-hls.doppiocdn.net/hls/79793927/master/79793927_480p.m3u8
 #EXTINF:-1,live1
-https://edge-hls.doppiocdn.net/hls/96175919/master/96175919.m3u8
+https://edge-hls.doppiocdn.net/hls/69640146/master/69640146_480p.m3u8
 #EXTINF:-1,live2
-https://camscdn.cams.com/camscdn/cdn-florinakate.m3u8
+https://edge-hls.doppiocdn.net/hls/107944948/master/107944948_480p.m3u8
 #EXTINF:-1,live3
-https://ded5986-edge-us22.bcvcdn.com/hls/stream_lianandnatasha/playlist.m3u8
+https://edge-hls.doppiocdn.net/hls/182535181/master/182535181_480p.m3u8
 #EXTINF:-1,live4
-https://edge5-nrt.live.mmcdn.com/live-hls/amlst:soffipink-sd-318d8ec1250e1c474b9ad53569155d69152d78abe40c0a8a190fac47c109cbeb_trns_h264/playlist.m3u8
+https://edge-hls.doppiocdn.net/hls/77145197/master/77145197_480p.m3u8
 #EXTINF:-1,BEARZ-TV
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 
