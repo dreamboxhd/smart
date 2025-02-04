@@ -1,12 +1,13 @@
 #EXTM3U
 #EXTINF:-1,live
-https://edge-hls.doppiocdn.net/hls/79793927/master/79793927_480p.m3u8
+https://edge-hls.sagcoreedge.com/hls/170691820/master/170691820_480p.m3u8
 #EXTINF:-1,live1
-https://edge-hls.doppiocdn.net/hls/69640146/master/69640146_480p.m3u8
+https://ew3-13.nginxborder-server.naiadsystems.com/p/8313/hls/live/ea7e8d46-59b1-491d-a0f1-89f5ea4e2103_700_768x432_128/index.m3u8?
 #EXTINF:-1,live2
-https://edge-hls.doppiocdn.net/hls/107944948/master/107944948_480p.m3u8
+https://ew3-13.nginxborder-server.naiadsystems.com/p/8313/hls/live/ea7e8d46-59b1-491d-a0f1-89f5ea4e2103_700_768x432_128/index.m3u8?rsrc=golem%3A8303&btk=XhQmlJ0YOY%2FnRAOHROK6%2F0DPuFyMY%2FPl5I4vxkTpn3k&abr=ew1
+
 #EXTINF:-1,live3
-https://edge-hls.doppiocdn.net/hls/182535181/master/182535181_480p.m3u8
+https://slutroulette.com/8ed181fa-e9a4-4d01-ada8-cb28f2885f31
 #EXTINF:-1,live4
 https://edge-hls.doppiocdn.net/hls/77145197/master/77145197_480p.m3u8
 #EXTINF:-1,BEARZ-TV
