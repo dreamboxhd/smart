@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,live
+https://live.huyamba.mobi/get_file/1/80015363871c6452e4abb91bb8630b9c1a914d2a32/7000/7802/7802.mp4/?rnd=1738704294993
+#EXTINF:-1,live1
+https://live.huyamba.mobi/get_file/1/1c5ab1a4c5b379e68e04d53070b278b747786e7feb/8000/8170/8170.webm/
+#EXTINF:-1,live2
+https://edge-hls.doppiocdn.live/hls/152719347/master/152719347_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1,live3
+https://edge-hls.doppiocdn.live/hls/157259792/master/157259792_auto.m3u8?playlistType=lowLatency
+
 #EXTINF:-1,BEARZ-TV
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 
