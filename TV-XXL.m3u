@@ -5,15 +5,6 @@ http://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
 #EXTINF:-1, adult
 http://xc.adultiptv.net/get.php?username=adultiptv&password=adultiptv&type=m3u8
 
-#EXTINF:-1,1 (Stripchat)
-https://adultiptv.net/livecams/stream.php?id=sc_121377216
-
-#EXTINF:-1, livemycamtv
-https://live.mycamtv.com/stream0.m3u8
-
-#EXTINF:-1,MyCamTV Teen Girls
-https://live.mycamtv.net/teen.m3u8
-
 #EXTINF:-1,BEARZ-TV
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 
@@ -25,9 +16,6 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 
 #EXTINF:-1,PENTHAUSE REALITY
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-
-#EXTINF:-1,XXXX
-https://github.com/hujingguang/ChinaIPTV/blob/main/xxx.m3u8
 
 #EXTINF:-1,Playboy UK
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
