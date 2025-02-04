@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1, LIVE-CAM
+https://edge3-chi.live.mmcdn.com/live-hls/amlst:bouncingb00bs-sd-6d3e93eeff8dfe440b41ce8e768b3f2e637252759f638c2ab2c4c260c2124ae8_trns_h264/playlist.m3u8
+#EXTINF:-1, LIVE-CAM1
+https://ded7126-edge65.bcvcdn.com/hls/stream_hornylovercouple/playlist.m3u8
+#EXTINF:-1, LIVE-CAM1-URNAUS
+https://hls-uranus.sb-cd.com/hls/clipFrom/3536005/clipTo/3704005/1/6/16158178-,480p,720p,.mp4.urlset/master.m3u8?secure=HXVHHQD1Pcpck9ROeuYVwQ,1738708376&m=49&d=1&_tid=16158178
+#EXTINF:-1,nl.liveporn.tv
+https://edge5-nrt.live.mmcdn.com/live-hls/amlst:out_of_blue_-sd-25338068e0622f478e6c904e173a87143475fbf66f2959d50d80bb797dc11b8d_trns_h264/playlist.m3u8
+
 #EXTINF:-1, oklivetv
 http://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
 
