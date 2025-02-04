@@ -1,13 +1,14 @@
 #EXTM3U
 #EXTINF:-1,live
-https://edge3-nrt.live.mmcdn.com/live-hls/amlst:popshhhik-sd-6aa527f5ef343d544f3f1cf435f255fa88b888db76552ddd760af42c83b39603_trns_h264/playlist.m3u8
+https://b-hls-20.doppiocdn.net/hls/96175919/96175919_480p.m3u8
 #EXTINF:-1,live1
-https://edge-hls.sacdnssedge.com/hls/129073023/master/129073023.m3u8
+https://edge-hls.doppiocdn.net/hls/96175919/master/96175919.m3u8
 #EXTINF:-1,live2
-https://gallery.dditscdn.com/lpp/6/AnnyRouge/AnnyRouge.30.mp4
+https://camscdn.cams.com/camscdn/cdn-florinakate.m3u8
 #EXTINF:-1,live3
-https://gallery.dditscdn.com/lpp/f/CintyaLoovee/CintyaLoovee.30.mp4
-
+https://ded5986-edge-us22.bcvcdn.com/hls/stream_lianandnatasha/playlist.m3u8
+#EXTINF:-1,live4
+https://edge5-nrt.live.mmcdn.com/live-hls/amlst:soffipink-sd-318d8ec1250e1c474b9ad53569155d69152d78abe40c0a8a190fac47c109cbeb_trns_h264/playlist.m3u8
 #EXTINF:-1,BEARZ-TV
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 
