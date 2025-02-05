@@ -1,18 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Unknown 1057
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 
-#EXTINF:-1,Unknown 1058
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
-
-#EXTINF:-1,Unknown 1061
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
-
-#EXTINF:-1,Unknown 1062
-http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940
-
-#EXTINF:-1,Unknown 1082
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6225/index.m3u8
 
 #EXTINF:-1,BEARZ-TV
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
@@ -25,24 +12,13 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 
 #EXTINF:-1,PENTHAUSE REALITY
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-#EXTINF:-1,Unknown 781
+#EXTINF:-1,VIVIRED
 http://ott.watch/stream/A2Q8BAKW82/284.m3u8
 
-#EXTINF:-1,Unknown 4334
-http://188.113.190.15/318/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Unknown 4335
+
+#EXTINF:-1,PLAY-TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1,Unknown 4336
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-
-#EXTINF:-1,Unknown 4338
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-
-#EXTINF:-1,Unknown 4340
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-
 
 #EXTINF:-1,Playboy UK
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
