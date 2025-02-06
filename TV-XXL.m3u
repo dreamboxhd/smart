@@ -6854,11 +6854,10 @@ https://edge15-rtm.live.mmcdn.com/live-hls/amlst:valery_ferreyraa-sd-7973f94168f
 https://edge14-ams.live.mmcdn.com/live-hls/amlst:itsjoy_universe-sd-9f1d1a0eee6084ca8d8136441eb239d681a3a6502f935b905d4058622ef65f7b_trns_h264/chunklist_w1985514172_b3096000_t64RlBTOjMwLjA=.m3u8
 
 #EXTINF:-1,test3
-https://edge19-fra.live.mmcdn.com/live-hls/amlst:cutierori-sd-231e1f9de53724f204fa1b214043ae3abe5a2e98083d303f95a56b0c5746de4d_trns_h264/chunklist_w2108164843_b3096000_t64RlBTOjMwLjA=.m3u8
+https://m3u8play.dev/?url=https://edge19-fra.live.mmcdn.com/live-hls/amlst:cutierori-sd-231e1f9de53724f204fa1b214043ae3abe5a2e98083d303f95a56b0c5746de4d_trns_h264/playlist.m3u8
 
-#EXTINF:-1,test4//ed
-https://video-nss.flixcdn.com/jL6D_nAM6XGcDC2VdEt9zA==,1738771200/media=hls4/multi=426x240:240,640x360:360,854x480:480,1280x720:720/A1/A18NvD/trailer/_TPL_.mp4.m3u8
-
+#EXTINF:-1,test4
+https://m3u8play.dev/?url=https://web.static.mmcdn.com/videos/canAutoplayInline.mp4
 
 
 
