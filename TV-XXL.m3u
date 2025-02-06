@@ -6901,11 +6901,11 @@ https://cdn.embed-player.space/18/02/18/496081.mp4
 #EXTINF:-1,test1
 http://fortv.cc:8080/357363/396558/159955
 #EXTINF:-1,test2
-http://fortv.cc:8080/357363/396558/159960
+https://hls.vsmvideo.com/chunklist_b1101562.m3u8?key=nil&model_id=1001305&provider=cdn5
 #EXTINF:-1,test3
-http://fortv.cc:8080/357363/396558/159956
+https://hls.vsmvideo.com/chunklist_b3628000.m3u8?key=nil&model_id=1412361&provider=cdn5
 #EXTINF:-1,test4
-http://fortv.cc:8080/357363/396558/159954
+https://hls.vsmvideo.com/chunklist_b1101562.m3u8?key=nil&model_id=1001305&provider=cdn5
 
 
 
