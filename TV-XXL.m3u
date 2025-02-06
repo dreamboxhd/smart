@@ -6901,9 +6901,9 @@ https://cdn.embed-player.space/18/02/18/496081.mp4
 #EXTINF:-1,test1
 http://fortv.cc:8080/357363/396558/159955
 #EXTINF:-1,test2
-https://hls.vsmvideo.com/chunklist_b1101562.m3u8?key=nil&model_id=1001305&provider=cdn5
+https://hls.vscdns.com/chunklist_b2061593.m3u8?key=56ec6933ecf8093ff8aa081413c6a61b&model_id=1326531&provider=cdn5&variant=720
 #EXTINF:-1,test3
-https://hls.vsmvideo.com/chunklist_b3628000.m3u8?key=nil&model_id=1412361&provider=cdn5
+https://hls.vscdns.com/chunklist_b2061593.m3u8?key=696118f1732f3dc7ad70ea85fc76f283&model_id=990071&provider=cdn5&variant=720
 #EXTINF:-1,test4
 https://node3.voyeurhouse.com/vh_prod/smil:595.smil/chunklist_w759240655_b1164000_slen.m3u8
 
