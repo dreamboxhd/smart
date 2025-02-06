@@ -6848,14 +6848,11 @@ https://hot0.embed-player.space/cached/1098364.mp4
 
 https://cdn.embed-player.space/18/02/18/496081.mp4
 #EXTINF:-1,test1
-https://edge15-rtm.live.mmcdn.com/live-hls/amlst:valery_ferreyraa-sd-7973f94168f29c93d1966695267b17da5f2f014ec9fb29d41c82645b29877c44_trns_h264/chunklist_w2029853499_b3096000_t64RlBTOjMwLjA=.m3u8
-
+https://edge-hls.doppiocdn.net/hls/110068981/master/110068981_480p.m3u8
 #EXTINF:-1,test2
-https://edge14-ams.live.mmcdn.com/live-hls/amlst:itsjoy_universe-sd-9f1d1a0eee6084ca8d8136441eb239d681a3a6502f935b905d4058622ef65f7b_trns_h264/chunklist_w1985514172_b3096000_t64RlBTOjMwLjA=.m3u8
-
+https://b-hls-03.doppiocdn.net/hls/80997668/80997668.m3u8
 #EXTINF:-1,test3
-https://m3u8play.dev/?url=https://edge19-fra.live.mmcdn.com/live-hls/amlst:cutierori-sd-231e1f9de53724f204fa1b214043ae3abe5a2e98083d303f95a56b0c5746de4d_trns_h264/playlist.m3u8
-
+https://b-hls-11.doppiocdn.net/hls/110068981/110068981_480p.m3u8
 #EXTINF:-1,test4
 https://m3u8play.dev/?url=https://web.static.mmcdn.com/videos/canAutoplayInline.mp4
 
