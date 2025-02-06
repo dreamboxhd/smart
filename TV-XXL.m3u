@@ -6905,7 +6905,7 @@ https://hls.vsmvideo.com/chunklist_b1101562.m3u8?key=nil&model_id=1001305&provid
 #EXTINF:-1,test3
 https://hls.vsmvideo.com/chunklist_b3628000.m3u8?key=nil&model_id=1412361&provider=cdn5
 #EXTINF:-1,test4
-https://hls.vsmvideo.com/chunklist_b1101562.m3u8?key=nil&model_id=1001305&provider=cdn5
+https://node3.voyeurhouse.com/vh_prod/smil:595.smil/chunklist_w759240655_b1164000_slen.m3u8
 
 
 
