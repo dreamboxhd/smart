@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,/pinkerotic1
+https://ortepe.xyz:12566/tv/pinkerotic1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDEyOjQ5OjA5IFBNJmhhc2hfdmFsdWU9TmRVaHNab0x0OS82TVR5UHJ5OHgxQT09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-1,pinko
+https://ortepe.xyz:12566/tv/pinko/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDEyOjQ3OjMwIFBNJmhhc2hfdmFsdWU9TGNZcDRudVJITHBHZXJ6RDZhb0N0QT09JnZhbGlkbWludXRlcz02MA==
+
 
 #EXTINF:-1,hustlerhd
 https://ortepe.xyz:12566/tv/hustlerhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDEyOjM3OjI1IFBNJmhhc2hfdmFsdWU9SzUxaFVkem1xSWZYWDFjeXNnU0hMQT09JnZhbGlkbWludXRlcz02MA==
@@ -32,16 +38,12 @@ https://ortepe.xyz:12566/tv/superone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://ortepe.xyz:12566/tv/eroxxx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDEyOjQ2OjQxIFBNJmhhc2hfdmFsdWU9bUZBdFQ1MEMyeW0xWHpoUEZFczFZQT09JnZhbGlkbWludXRlcz02MA==
 
 
-#EXTINF:-1,pinko
-https://ortepe.xyz:12566/tv/pinko/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDEyOjQ3OjMwIFBNJmhhc2hfdmFsdWU9TGNZcDRudVJITHBHZXJ6RDZhb0N0QT09JnZhbGlkbWludXRlcz02MA==
 
 
 #EXTINF:-1,kinoxx
 https://ortepe.xyz:12566/tv/kinoxxx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDEyOjQ4OjA3IFBNJmhhc2hfdmFsdWU9YTh3TVVaaGt0TTArcDV5VjlucFFwUT09JnZhbGlkbWludXRlcz02MA==
 
 
-#EXTINF:-1,/pinkerotic1
-https://ortepe.xyz:12566/tv/pinkerotic1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI1IDEyOjQ5OjA5IFBNJmhhc2hfdmFsdWU9TmRVaHNab0x0OS82TVR5UHJ5OHgxQT09JnZhbGlkbWludXRlcz02MA==
 
 
 #EXTINF:-1,pinkerotic7
